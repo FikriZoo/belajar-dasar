@@ -1,0 +1,14 @@
+1. kunjungan naik di bulan Mei ke bulan juni
+2. lalu turun sangat pesat di bulan juli
+3. bulan juli memiliki kunjungan paling sedikit di antara 7 bulan lainya
+4. tingkat konversi turun drastis di bulan juli sebanyak 2,3 persen
+   (tingkat konversi turun dari 3,0 menjadi 2,3 persen yaitu turun 0,7 poin presentase)
+5. bulan juli juga menjadi rata-rata mengunjungi website tercepat sekitar 3,2 menit
+    (rata rata waktu kunjungan di bulan juli adalah yang terendah di bandingkan bulan sebelumnya yang di atas 3,5)
+6. Earphon merupakan produk terlaris di bulan april
+7. April memberikan promo gratis ongkir tersendiri
+8. di bulan juli website tidak memberikan promo bagi pembeli 
+    (tidak adanya promo di bulan juli kemungkinan mennjadi penyebab penurunya kunjunga dan tingkat konversi)
+
+= orang-orang banyak mengunjungi website di bulan juni dikarenakan bulan juni memberikan diskon besar sebanyak 25% dibandingkan dengan bulan lainya bahkan kunjungan di bulan juli memilki kunjungan di bawah 15.000 kunjungan yang disebabkan website tidak menyediakan promo alhasil orang-orang mungkin hanya sekedar melihat website untuk melihat produk yang diinginkan, karena tidak adanya promo maka orang akan segera menutup website dan dibuktikan dengan rata-rata melihat website sebanyak 3 menitan saja
+	= Kunjungan website mencapai puncaknya pada bulan Juni, didorong oleh promo diskon 	besar sebesar 25%, tertinggi di antara bulan lainnya. Namun, pada bulan Juli, 	kunjungan turun drastis menjadi 14.000, terendah dalam tujuh bulan terakhir. Salah 	satu faktor utama penurunan ini adalah tidak adanya promo yang ditawarkan. Hal ini 	kemungkinan membuat pengunjung hanya melihat produk sekilas tanpa melakukan 	pembelian. Dampaknya terlihat pada rata-rata waktu kunjungan yang hanya sekitar 3,2 	menit, terendah dibanding bulan-bulan sebelumnya.
